@@ -25,3 +25,27 @@ pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+
+---
+
+# Front-End Process
+
+
+![1](https://user-images.githubusercontent.com/90139306/217280890-0623b888-7204-4b31-8830-2b2d5ca7a28c.JPG)
+
+
+![2](https://user-images.githubusercontent.com/90139306/217280896-b0f89363-473e-4da5-a0f2-298ec5fb5e11.JPG)
+
+
+![3](https://user-images.githubusercontent.com/90139306/217280902-d9ad720f-61f7-4d0f-9f16-83d488575abc.JPG)
+
+
+![5](https://user-images.githubusercontent.com/90139306/217280904-60deac28-c5fc-4ee0-9164-72504324d84e.JPG)
+
+
+![6](https://user-images.githubusercontent.com/90139306/217280906-024976a6-4f57-410b-87fd-efc2c2cf0537.JPG)
+
+
+![8](https://user-images.githubusercontent.com/90139306/217280907-0c14e9e5-1c60-4251-a31a-c61b9d674118.JPG)
