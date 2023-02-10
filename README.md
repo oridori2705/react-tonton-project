@@ -53,10 +53,15 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ---
 
-#내가 만든 기능
+# 내가 만든 기능
+
+### 페이지네이션
 
 
 ![ezgif com-gif-maker_6](https://user-images.githubusercontent.com/90139306/218085747-283d8b7a-ddd0-46d6-8202-64d970dd2c17.gif)
+
+
+### 이미지 드래그앤 드롭
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/90139306/218085768-3f28dd94-f0e7-4286-b638-2b4d56734150.gif)
